@@ -7,9 +7,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=F97316&dates=8B949E&stroke=30363D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=default&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57606A&currStreakNum=24292F&sideNums=F97316&dates=57606A&stroke=D0D7DE" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=default&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57606A&currStreakNum=24292F&sideNums=F97316&dates=57606A&stroke=D0D7DE" alt="GitHub total contributions, current streak, and longest streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byPaii&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=F97316&dates=8B949E&stroke=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byPaii&theme=default&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57606A&currStreakNum=24292F&sideNums=F97316&dates=57606A&stroke=D0D7DE" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byPaii&theme=default&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57606A&currStreakNum=24292F&sideNums=F97316&dates=57606A&stroke=D0D7DE" alt="GitHub total contributions, current streak, and longest streak" />
   </picture>
 </p>
 
@@ -40,7 +40,7 @@ Understand the code? Nah. Just make sure it runs.
 
 Explore my work through my public repositories.
 
-[![GitHub](https://img.shields.io/badge/GitHub-byteForge00123-181717?style=flat-square&logo=github)](https://github.com/byteForge00123) [![Repositories](https://img.shields.io/badge/Repositories-Explore-2F81F7?style=flat-square&logo=github)](https://github.com/byteForge00123?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-byPaii-181717?style=flat-square&logo=github)](https://github.com/byPaii) [![Repositories](https://img.shields.io/badge/Repositories-Explore-2F81F7?style=flat-square&logo=github)](https://github.com/byPaii?tab=repositories)
 
 ### Links & License
 
