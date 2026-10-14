@@ -7,9 +7,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=58A6FF&dates=8B949E&stroke=30363D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&currStreakNum=24292F&sideNums=0969DA&dates=57606A&stroke=D0D7DE" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&currStreakNum=24292F&sideNums=0969DA&dates=57606A&stroke=D0D7DE" alt="GitHub total contributions, current streak, and longest streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=F97316&dates=8B949E&stroke=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=default&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57606A&currStreakNum=24292F&sideNums=F97316&dates=57606A&stroke=D0D7DE" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=byteForge00123&theme=default&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57606A&currStreakNum=24292F&sideNums=F97316&dates=57606A&stroke=D0D7DE" alt="GitHub total contributions, current streak, and longest streak" />
   </picture>
 </p>
 
