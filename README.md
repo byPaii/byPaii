@@ -28,9 +28,9 @@ I build ready-to-use web templates and full-stack prototypes. My public projects
 
 ### Development Tools
 
-Cursor, CodeRabbit, and Cline are part of my development toolkit, helping me write, review, and improve projects.
+Cursor, CodeRabbit, Cline, Antigravity, and Visual Studio Code are part of my development toolkit, helping me write, review, and improve projects.
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square&logo=coderabbit&logoColor=white) ![Cline](https://img.shields.io/badge/Cline-5B5BD6?style=flat-square&logo=cline&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square&logo=coderabbit&logoColor=white) ![Cline](https://img.shields.io/badge/Cline-5B5BD6?style=flat-square&logo=cline&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### Motto
 
