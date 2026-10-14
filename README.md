@@ -50,4 +50,4 @@ Explore my work through my public repositories.
 
 **Licensing:** No license is currently declared in the public repositories.
 
-**Development tool licenses and terms:** [Cursor](https://cursor.com/terms-of-service) — proprietary service terms · [CodeRabbit](https://www.coderabbit.ai/legal/terms-of-service) — proprietary service terms · [Cline](https://github.com/cline/cline/blob/main/LICENSE) — Apache-2.0 · [Google Antigravity](https://antigravity.google/terms) — Google Antigravity Terms of Service · [Visual Studio Code](https://github.com/microsoft/vscode/blob/main/LICENSE.txt) — MIT-licensed source; Microsoft-distributed builds are governed by the [Microsoft product license](https://code.visualstudio.com/license).
+**Development tool licenses and terms:** [Cursor](https://cursor.com/terms-of-service) · [CodeRabbit](https://www.coderabbit.ai/legal/terms-of-service) · [Cline](https://github.com/cline/cline/blob/main/LICENSE) · [Google Antigravity](https://antigravity.google/terms) · [Visual Studio Code](https://github.com/microsoft/vscode/blob/main/LICENSE.txt) · (https://code.visualstudio.com/license).
