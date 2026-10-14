@@ -34,7 +34,7 @@ Cursor, CodeRabbit, Cline, Antigravity, and Visual Studio Code are part of my de
 
 ### Motto
 
-If it works, leave it alone. If it doesn't, just stare at it for a while.
+Understand the code? Nah. Just make sure it runs.
 
 ### Let's Connect
 
@@ -49,3 +49,5 @@ Explore my work through my public repositories.
 **Backend & Data:** [Laravel](https://laravel.com/) · [PHP](https://www.php.net/) · [MySQL](https://www.mysql.com/) · [PostgreSQL](https://www.postgresql.org/) · [Ruby](https://www.ruby-lang.org/) · [Rails](https://rubyonrails.org/) · [Alpine.js](https://alpinejs.dev/)
 
 **Licensing:** No license is currently declared in the public repositories.
+
+**Development tool licenses and terms:** [Cursor](https://cursor.com/terms-of-service) — proprietary service terms · [CodeRabbit](https://www.coderabbit.ai/legal/terms-of-service) — proprietary service terms · [Cline](https://github.com/cline/cline/blob/main/LICENSE) — Apache-2.0 · [Google Antigravity](https://antigravity.google/terms) — Google Antigravity Terms of Service · [Visual Studio Code](https://github.com/microsoft/vscode/blob/main/LICENSE.txt) — MIT-licensed source; Microsoft-distributed builds are governed by the [Microsoft product license](https://code.visualstudio.com/license).
