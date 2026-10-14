@@ -26,11 +26,11 @@ I build ready-to-use web templates and full-stack prototypes. My public projects
 **Additional Tools**  
 ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-12.23.2-0055FF?style=flat-square&logo=framer&logoColor=white) ![Lucide_React](https://img.shields.io/badge/Lucide_React-0.525.0-000000?style=flat-square) ![Lucide_Angular](https://img.shields.io/badge/Lucide_Angular-18c7ff-000000?style=flat-square) ![RxJS](https://img.shields.io/badge/RxJS-7.8-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-Server--Rendered-F05340?style=flat-square&logo=laravel&logoColor=white) ![Turbo](https://img.shields.io/badge/Turbo-8-00AEEF?style=flat-square&logo=hotwire&logoColor=white) ![TMDB_API](https://img.shields.io/badge/TMDB_API-Enabled-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
 
-### AI Pairing
+### Development Tools
 
-Claude and Codex are part of my development toolkit, helping guide me as I explore ideas, prototype solutions, and build and improve projects.
+Cursor, CodeRabbit, and Cline are part of my development toolkit, helping me write, review, and improve projects.
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![OpenAI_Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square&logo=coderabbit&logoColor=white) ![Cline](https://img.shields.io/badge/Cline-5B5BD6?style=flat-square&logo=cline&logoColor=white)
 
 ### Motto
 
